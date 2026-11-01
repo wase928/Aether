@@ -4,9 +4,9 @@
 
 # Aether
 
-**macOS 26 上的 Minecraft 启动器 · 原生 Swift + SwiftUI**
+**macOS 26 上的 Minecraft 启动器 · 原生 Swift + SwiftUI(混了一点java）**
 
-纯系统框架 · 零第三方依赖 · Apple Silicon 原生（混了一点java）
+纯系统框架 · 零第三方依赖 · Apple Silicon 原生
 
 [![Release](https://img.shields.io/badge/Releases-v1.0.0-2E6BFF?style=flat-square)](https://github.com/wase928/Aether/releases)
 [![macOS](https://img.shields.io/badge/macOS-26%2B-000000?style=flat-square)](https://www.apple.com/macos/)
