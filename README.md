@@ -262,7 +262,7 @@ SPDX-License-Identifier: GPL-3.0-or-later WITH AdditionRef-HMCL
 以及 `HMCLLogin.swift` / `LoginHelper.java`（运行时调用用户本机的 HMCL jar，
 **该 jar 不随本程序分发**）。
 
-完整的归属声明、引用来源对照表、HMCL 附加条款原文见 **[NOTICE](NOTICE)**，
+完整的归属声明、引用来源对照表、HMCL 附加条款原文见 **[NOTICE.md](NOTICE.md)**，
 HMCL 的完整许可证见 **[LICENSE.hmcl-GPL-3.0](LICENSE.hmcl-GPL-3.0)**。
 
 ### 运行时依赖
