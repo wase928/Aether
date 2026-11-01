@@ -281,7 +281,7 @@ HMCL 的完整许可证见 **[LICENSE.hmcl-GPL-3.0](LICENSE.hmcl-GPL-3.0)**。
 - 本仓库的**完整源码**（GitHub 上的链接即可）
 - [AGPL-3.0 许可证全文](LICENSE)
 - [用户协议](EULA.md)
-- [NOTICE](NOTICE)（含第三方归属声明）
+- [NOTICE.md](NOTICE.md)（含第三方归属声明）
 - 保留所有版权声明
 
 Minecraft 本体、Mod、加载器的著作权归各自作者所有，
